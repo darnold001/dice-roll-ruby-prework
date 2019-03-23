@@ -4,5 +4,5 @@
 
 def roll
 (x = rand(7))
-    x
+    x = (...0)
 end
