@@ -5,4 +5,5 @@
 def roll
 (x = rand(7))
     x
+    x2 = (1...8)
 end
